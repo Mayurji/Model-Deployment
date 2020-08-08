@@ -15,6 +15,7 @@ Not to use in production servers. Good for building prototypes.
 * torchvision==0.6.0
 * Pillow==7.2.0
 
+### **Installation**
 ```python
 pip install -r requirements.txt
 ```
