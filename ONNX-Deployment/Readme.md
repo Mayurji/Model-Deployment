@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ### **Note**
 
-** The purpose of introducing ONNX, Consider I have built a multiple models in pytorch and tensorflow then for deploying 
+**The purpose of introducing ONNX, Consider I have built a multiple models in pytorch and tensorflow then for deploying 
 i need to set up both pytorch and tensorflow in my environment to make inference. So to avoid this, once a model is 
 converted to ONNX, you can deploy the model using sanic or through docker containers in any environment which supports
 ONNX.**
