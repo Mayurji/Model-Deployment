@@ -4,7 +4,7 @@ Learn how to Deploy model using Sanic.
 
 ### **Where used?**
 
-Good for building prototypes and production with few tweaks.
+Good for building prototypes and small scale production with few tweaks.
 
 ### **Packages**
 
