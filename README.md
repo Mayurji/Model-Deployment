@@ -1,4 +1,7 @@
 # Model-Deployment
+
+![Model Deployment](model_deploy.png)
+
 Learn how to deploy model using Flask, Sanic, Fastapi and then Onnx.
 
 This repository is maintained for beginners to learn about basics in deploying a ML model. 
