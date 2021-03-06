@@ -8,7 +8,7 @@ This repository is maintained for beginners to learn about basics in deploying a
 Objective is to understand what an API is and what are different tools that one can use to leverage the same
 for their usecase.
 
-All these deployments techniques are good enough for POCs.
+All these deployments techniques are good enough for POCs and some are widely used in productions.
 
 * **Deploying using Flask**
 * **Deploying using Sanic**
