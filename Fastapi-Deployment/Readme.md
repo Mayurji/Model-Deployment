@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ### **To run**
 
 By default, the app runs on 127.0.0.1:8000 and *main* refers to the filename and *app* is the fastapi object, a key point of interaction.
-*uvicorn* is the ASGI (Asynchronous Server Gateway Interface) built on top of uvloop and httptools. Fastapi is a API framework. I would encourage 
+*uvicorn* is the ASGI (Asynchronous Server Gateway Interface) built on top of uvloop and httptools. I would encourage 
 users to read the docs for Fastapi for further reading.
 
 ```python
