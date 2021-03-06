@@ -27,3 +27,13 @@ users to read the docs for Fastapi for further reading.
 ```python
 uvicorn main:app --reload
 ```
+
+### For GUI
+
+Once the uvicorn application server is starts running, you can switch your browser and type
+
+*https://127.0.0.1:8000/docs*
+
+It will open an interface for the user to input the request as done in Postman tool.
+
+![Fastapi Interface]('fastapi_gui.png')
