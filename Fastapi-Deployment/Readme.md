@@ -36,4 +36,4 @@ Once the uvicorn application server is starts running, you can switch your brows
 
 It will open an interface for the user to input the request as done in Postman tool.
 
-![Fastapi Interface]('fastapi_gui.png')
+![Fastapi Interface](fastapi_gui.png)
