@@ -18,3 +18,10 @@ Fastapi is widely being used for production deployment of ML models. Check out t
 ```python
 pip install -r requirements.txt
 ```
+### **To run**
+
+By default, the app runs on 127.0.0.1:8000. 
+
+```python
+uvicorn main:app --reload
+```
